@@ -1,10 +1,4 @@
 Name,Financial Status,Paid at,Fulfillment Status,Fulfilled at,Accepts Marketing,Currency,Discount Code,Discount Amount,Shipping Method,Created at,Lineitem quantity,Lineitem name,Lineitem sku,Lineitem requires shipping,Lineitem taxable,Lineitem fulfillment status,Billing City,Billing Province,Billing Country,Shipping City,Shipping Province,Shipping Country,Notes,Note Attributes,Cancelled at,Payment Method,Refunded Amount,Vendor,Risk Level,Source,Duties,Billing Province Name,Shipping Province Name
-#4090,paid,02/01/2024 11:23,unfulfilled,,yes,CAD,,0,Standard,02/01/2024 11:23,1,Olang - GLAMOUR ROSSO- Rouge - 41 / ROUGE,GLAMOUR ROSSO -0-0-0,true,true,pending,Lac-Beauport,QC,CA,Lac-Beauport,QC,CA,,"lang: fr
-Invoice Language: fr",,Shopify Payments,0,OLANG CANADA,Low,web,,Quebec,Quebec
-#4089,paid,01/01/2024 13:56,unfulfilled,,yes,CAD,,0,Standard,01/01/2024 13:56,1,Rieker - Y9232-00- Non coloré - 37,Y9232.00 -0-0-0,true,true,pending,Donnacona,QC,CA,Donnacona,QC,CA,,"lang: fr
-Invoice Language: fr",,Shopify Payments,0,RIEKER,Low,web,,Quebec,Quebec
-#4088,paid,01/01/2024 12:01,unfulfilled,,yes,CAD,,0,Standard,01/01/2024 12:01,1,Remonte - R1473-35- Bordeaux - 37 / BORDEAUX,R1473.35 -0-0-0,true,true,pending,Blainville,QC,CA,Blainville,QC,CA,,"lang: fr
-Invoice Language: fr",,Shopify Payments,0,RIEKER,Low,web,,Quebec,Quebec
 #4087,paid,31/12/2023 22:36,fulfilled,02/01/2024 13:41,yes,CAD,,0,Express,31/12/2023 22:36,1,Rieker - L4655-35- Rouge - 40 / ROUGE,L4655.35 -0-0-0,true,true,fulfilled,Saint-Jean-sur-Richelieu,QC,CA,Saint-Jean-sur-Richelieu,QC,CA,,,,Shopify Payments,0,RIEKER,Low,web,,Quebec,Quebec
 #4086,paid,31/12/2023 16:25,unfulfilled,,yes,CAD,,0,Standard,31/12/2023 16:25,1,Rieker - Z4243-36- Bordeaux - 41 / BORDEAUX,Z4243.36 -0-0-0,true,true,pending,Lavaltrie,QC,CA,Lavaltrie,QC,CA,,"lang: fr
 Invoice Language: fr",,Shopify Payments,0,RIEKER,Low,web,,Quebec,Quebec
